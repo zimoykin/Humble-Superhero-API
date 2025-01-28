@@ -1,8 +1,8 @@
 {
-  "name": "template-nestjs-10",
+  "name": "humble-superhero-api",
   "version": "0.0.1",
   "private": true,
-  "description": "it is a template for NestJS 10",
+  "description": "Humble Superhero API",
   "license": "UNLICENSED",
   "author": "Dmitrii Zimoikin",
   "scripts": {
